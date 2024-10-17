@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_task1);
         setContentView(R.layout.activity_task2);
+        setContentView(R.layout.activity_task3);
     }
 }
